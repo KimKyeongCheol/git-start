@@ -1,3 +1,3 @@
 # git-start
-## test
-* git 처음입니다.???
+* git add : git working -> stage index
+* git commit : stage index -> repository
